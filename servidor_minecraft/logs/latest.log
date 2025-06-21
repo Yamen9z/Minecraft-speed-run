@@ -157,3 +157,23 @@
 [16:11:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=374, y=64, z=-425} ji{x=375, y=62, z=-425}
 [16:11:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=375, y=64, z=-425} ji{x=376, y=62, z=-424}
 [16:11:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=377, y=64, z=-422} ji{x=378, y=62, z=-421}
+[16:25:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=139, y=64, z=-435} ji{x=139, y=62, z=-435}
+[16:25:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=105, y=64, z=-429} ji{x=105, y=62, z=-429}
+[16:34:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1455, y=64, z=-508} ji{x=-1455, y=62, z=-507}
+[16:34:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1456, y=64, z=-504} ji{x=-1456, y=62, z=-503}
+[16:34:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1456, y=64, z=-504} ji{x=-1456, y=62, z=-503}
+[16:34:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1456, y=64, z=-503} ji{x=-1456, y=62, z=-502}
+[16:34:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1456, y=64, z=-503} ji{x=-1456, y=62, z=-502}
+[16:34:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1456, y=64, z=-502} ji{x=-1456, y=62, z=-502}
+[16:34:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1456, y=64, z=-501} ji{x=-1455, y=62, z=-500}
+[16:34:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1456, y=64, z=-501} ji{x=-1455, y=62, z=-500}
+[16:37:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1583, y=73, z=-523} ji{x=-1584, y=71, z=-523}
+[16:37:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1583, y=73, z=-527} ji{x=-1582, y=71, z=-528}
+[16:37:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1582, y=73, z=-527} ji{x=-1582, y=71, z=-528}
+[16:38:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1567, y=73, z=-531} ji{x=-1566, y=71, z=-530}
+[16:38:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-1567, y=73, z=-531} ji{x=-1566, y=71, z=-530}
+[16:51:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-3543, y=64, z=-700} ji{x=-3543, y=62, z=-700}
+[16:51:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-3544, y=64, z=-700} ji{x=-3545, y=62, z=-700}
+[16:58:04] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[16:58:04] [Server thread/INFO]: NoUR_455 left the game
+[16:59:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
