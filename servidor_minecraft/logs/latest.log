@@ -112,3 +112,12 @@
 [20:51:18] [Server thread/INFO]: <LEON_445> sleep
 [20:51:19] [Server thread/INFO]: <LEON_445> sleep
 [20:51:21] [Server thread/INFO]: <LEON_445> sleep
+[20:58:54] [Server thread/INFO]: LEON_445 lost connection: Disconnected
+[20:58:54] [Server thread/INFO]: LEON_445 left the game
+[20:59:08] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[20:59:08] [Server thread/INFO]: Yamen9z left the game
+[21:00:57] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[21:00:57] [Server thread/INFO]: NoUR_455 left the game
+[21:01:08] [User Authenticator #11/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[21:01:09] [Server thread/INFO]: NoUR_455[/10.147.20.7:50289] logged in with entity id 86277 at (-4345.630098014897, 28.0, -964.3568746909516)
+[21:01:09] [Server thread/INFO]: NoUR_455 joined the game
