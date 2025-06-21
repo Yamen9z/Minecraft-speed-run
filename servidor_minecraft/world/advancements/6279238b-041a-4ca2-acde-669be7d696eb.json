@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-06-21 13:11:32 +0000",
+      "minecraft:snowy_slopes": "2025-06-21 20:13:46 +0000",
       "minecraft:beach": "2025-06-21 13:04:10 +0000",
       "minecraft:forest": "2025-06-21 11:08:52 +0000",
       "minecraft:sparse_jungle": "2025-06-21 12:55:45 +0000",
@@ -19,9 +20,11 @@
       "minecraft:ocean": "2025-06-21 13:15:49 +0000",
       "minecraft:jungle": "2025-06-21 13:04:44 +0000",
       "minecraft:sunflower_plains": "2025-06-21 13:21:32 +0000",
+      "minecraft:cherry_grove": "2025-06-21 20:22:25 +0000",
       "minecraft:meadow": "2025-06-21 13:38:34 +0000",
       "minecraft:savanna": "2025-06-21 13:10:42 +0000",
-      "minecraft:plains": "2025-06-21 11:07:53 +0000"
+      "minecraft:plains": "2025-06-21 11:07:53 +0000",
+      "minecraft:jagged_peaks": "2025-06-21 20:14:17 +0000"
     },
     "done": false
   },
@@ -2179,6 +2182,36 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-06-21 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-21 20:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-21 20:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-21 20:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-21 20:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-21 20:19:42 +0000"
     },
     "done": true
   },
