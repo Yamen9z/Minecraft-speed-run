@@ -1,0 +1,27 @@
+[11:06:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:06:08] [ServerMain/INFO]: Loaded 1370 recipes
+[11:06:08] [ServerMain/INFO]: Loaded 1481 advancements
+[11:06:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:06:08] [Server thread/INFO]: Loading properties
+[11:06:08] [Server thread/INFO]: Default game type: SURVIVAL
+[11:06:08] [Server thread/INFO]: Generating keypair
+[11:06:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:06:08] [Server thread/INFO]: Using epoll channel type
+[11:06:08] [Server thread/INFO]: Preparing level "world"
+[11:06:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:06:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:06:11] [Server thread/INFO]: Time elapsed: 2580 ms
+[11:06:11] [Server thread/INFO]: Done (2.814s)! For help, type "help"
+[11:07:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:07:52] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[11:07:53] [Server thread/INFO]: Yamen9z[/10.147.19.84:54183] logged in with entity id 15 at (3.5, 105.0, 10.5)
+[11:07:53] [Server thread/INFO]: Yamen9z joined the game
+[11:08:02] [Server thread/INFO]: <Yamen9z> ttt
+[11:09:11] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[11:09:11] [Server thread/INFO]: Yamen9z left the game
+[11:10:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
