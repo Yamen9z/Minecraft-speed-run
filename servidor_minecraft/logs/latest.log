@@ -151,3 +151,9 @@
 [15:21:05] [Server thread/INFO]: NoUR_455 left the game
 [15:22:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [16:04:11] [User Authenticator #13/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[16:04:13] [Server thread/INFO]: NoUR_455[/10.147.20.7:60984] logged in with entity id 86684 at (9.199449509035395, 19.0, -246.90833077222587)
+[16:04:13] [Server thread/INFO]: NoUR_455 joined the game
+[16:11:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=373, y=64, z=-425} ji{x=374, y=62, z=-425}
+[16:11:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=374, y=64, z=-425} ji{x=375, y=62, z=-425}
+[16:11:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=375, y=64, z=-425} ji{x=376, y=62, z=-424}
+[16:11:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=377, y=64, z=-422} ji{x=378, y=62, z=-421}
