@@ -1,27 +1,47 @@
-[11:06:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:06:08] [ServerMain/INFO]: Loaded 1370 recipes
-[11:06:08] [ServerMain/INFO]: Loaded 1481 advancements
-[11:06:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[11:06:08] [Server thread/INFO]: Loading properties
-[11:06:08] [Server thread/INFO]: Default game type: SURVIVAL
-[11:06:08] [Server thread/INFO]: Generating keypair
-[11:06:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:06:08] [Server thread/INFO]: Using epoll channel type
-[11:06:08] [Server thread/INFO]: Preparing level "world"
-[11:06:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:06:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:06:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:06:11] [Server thread/INFO]: Time elapsed: 2580 ms
-[11:06:11] [Server thread/INFO]: Done (2.814s)! For help, type "help"
-[11:07:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:07:52] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[11:07:53] [Server thread/INFO]: Yamen9z[/10.147.19.84:54183] logged in with entity id 15 at (3.5, 105.0, 10.5)
-[11:07:53] [Server thread/INFO]: Yamen9z joined the game
-[11:08:02] [Server thread/INFO]: <Yamen9z> ttt
-[11:09:11] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[11:09:11] [Server thread/INFO]: Yamen9z left the game
-[11:10:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:22:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:22:38] [ServerMain/INFO]: Loaded 1370 recipes
+[12:22:38] [ServerMain/INFO]: Loaded 1481 advancements
+[12:22:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:22:38] [Server thread/INFO]: Loading properties
+[12:22:38] [Server thread/INFO]: Default game type: SURVIVAL
+[12:22:38] [Server thread/INFO]: Generating keypair
+[12:22:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:22:39] [Server thread/INFO]: Using epoll channel type
+[12:22:39] [Server thread/INFO]: Preparing level "world"
+[12:22:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:22:44] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[12:22:44] [Server thread/INFO]: Time elapsed: 5230 ms
+[12:22:44] [Server thread/INFO]: Done (5.570s)! For help, type "help"
+[12:23:18] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:23:19] [Server thread/INFO]: Yamen9z[/10.147.20.81:61915] logged in with entity id 73 at (45.27246305731602, 112.0, 28.48549029847296)
+[12:23:19] [Server thread/INFO]: Yamen9z joined the game
+[12:24:39] [Server thread/INFO]: Yamen9z was slain by Zombie
+[12:25:10] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[12:25:10] [Server thread/INFO]: Yamen9z left the game
+[12:26:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:27:47] [User Authenticator #2/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[12:27:47] [Server thread/INFO]: LEON_445[/10.147.20.36:52408] logged in with entity id 969 at (4.5, 89.0, -9.5)
+[12:27:47] [Server thread/INFO]: LEON_445 joined the game
+[12:28:15] [User Authenticator #3/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:28:16] [Server thread/INFO]: Yamen9z[/10.147.20.81:62245] logged in with entity id 1380 at (17.638372746446148, 119.0, 39.72818288359975)
+[12:28:16] [Server thread/INFO]: Yamen9z joined the game
+[12:28:46] [Server thread/INFO]: LEON_445 has made the advancement [Monster Hunter]
+[12:30:01] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[12:30:01] [Server thread/INFO]: Yamen9z left the game
+[12:30:08] [User Authenticator #4/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:30:09] [Server thread/INFO]: Yamen9z[/10.147.20.81:62377] logged in with entity id 1820 at (27.069183391432304, 120.0, 60.508447192910786)
+[12:30:09] [Server thread/INFO]: Yamen9z joined the game
+[12:31:14] [User Authenticator #5/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:31:15] [Server thread/INFO]: NoUR_455[/10.147.20.7:54631] logged in with entity id 2001 at (3.5, 90.0, -3.5)
+[12:31:15] [Server thread/INFO]: NoUR_455 joined the game
+[12:32:11] [Server thread/INFO]: LEON_445 was slain by Yamen9z
