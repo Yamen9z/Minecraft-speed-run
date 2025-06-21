@@ -363,6 +363,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-21 20:47:36 +0000",
       "minecraft:cave_spider": "2025-06-21 19:23:07 +0000",
       "minecraft:skeleton": "2025-06-21 12:41:50 +0000",
       "minecraft:breeze": "2025-06-21 14:11:27 +0000",
@@ -2200,6 +2201,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-21 20:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-21 20:47:47 +0000"
     },
     "done": true
   },
