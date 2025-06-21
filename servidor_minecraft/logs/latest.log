@@ -45,3 +45,17 @@
 [12:31:15] [Server thread/INFO]: NoUR_455[/10.147.20.7:54631] logged in with entity id 2001 at (3.5, 90.0, -3.5)
 [12:31:15] [Server thread/INFO]: NoUR_455 joined the game
 [12:32:11] [Server thread/INFO]: LEON_445 was slain by Yamen9z
+[12:33:18] [Server thread/INFO]: NoUR_455 has made the advancement [Stone Age]
+[12:33:50] [Server thread/INFO]: NoUR_455 has made the advancement [Monster Hunter]
+[12:34:33] [Server thread/INFO]: NoUR_455 has made the advancement [Getting an Upgrade]
+[12:35:01] [Server thread/INFO]: LEON_445 has made the advancement [Stone Age]
+[12:35:11] [Server thread/INFO]: LEON_445 has made the advancement [Getting an Upgrade]
+[12:35:47] [Server thread/INFO]: Yamen9z has made the advancement [Stone Age]
+[12:36:04] [Server thread/INFO]: Yamen9z has made the advancement [Getting an Upgrade]
+[12:39:05] [User Authenticator #6/INFO]: UUID of player DellaSneeNinn is bf0c020e-0217-4569-92b7-8aece620105f
+[12:39:06] [Server thread/INFO]: DellaSneeNinn[/10.147.20.221:55179] logged in with entity id 4594 at (6.5, 103.0, 5.5)
+[12:39:06] [Server thread/INFO]: DellaSneeNinn joined the game
+[12:40:01] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[12:40:01] [Server thread/INFO]: NoUR_455 left the game
+[12:40:01] [Server thread/WARN]: handleDisconnection() called twice
+[12:41:50] [Server thread/INFO]: Yamen9z has made the advancement [Monster Hunter]
