@@ -1,10 +1,33 @@
-[17:19:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:19:16] [ServerMain/ERROR]: Failed to start the minecraft server
-ayf$a: /workspaces/Minecraft-speed-run/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at ayf$a.a(SourceFile:95) ~[server-1.21.4.jar:?]
-	at ayf.a(SourceFile:41) ~[server-1.21.4.jar:?]
-	at evg$c.<init>(SourceFile:374) ~[server-1.21.4.jar:?]
-	at evg.d(SourceFile:353) ~[server-1.21.4.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:139) ~[server-1.21.4.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[18:58:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:58:41] [ServerMain/INFO]: Loaded 1370 recipes
+[18:58:41] [ServerMain/INFO]: Loaded 1481 advancements
+[18:58:41] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:58:41] [Server thread/INFO]: Loading properties
+[18:58:41] [Server thread/INFO]: Default game type: SURVIVAL
+[18:58:41] [Server thread/INFO]: Generating keypair
+[18:58:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:58:42] [Server thread/INFO]: Using epoll channel type
+[18:58:42] [Server thread/INFO]: Preparing level "world"
+[18:58:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:58:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:58:47] [Server thread/INFO]: Time elapsed: 5154 ms
+[18:58:47] [Server thread/INFO]: Done (5.477s)! For help, type "help"
+[18:58:55] [User Authenticator #1/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[18:58:57] [Server thread/INFO]: NoUR_455[/10.147.20.7:54162] logged in with entity id 6 at (-4432.5, 64.0, -978.5)
+[18:58:57] [Server thread/INFO]: NoUR_455 joined the game
+[19:01:15] [User Authenticator #2/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[19:01:16] [Server thread/INFO]: LEON_445[/10.147.20.36:58324] logged in with entity id 989 at (-818.3000000119209, 122.0, 384.30000001192093)
+[19:01:16] [Server thread/INFO]: LEON_445 joined the game
+[19:01:26] [User Authenticator #3/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[19:01:27] [Server thread/INFO]: Yamen9z[/10.147.20.81:58585] logged in with entity id 1548 at (-729.5, 76.0, 310.5)
+[19:01:27] [Server thread/INFO]: Yamen9z joined the game
