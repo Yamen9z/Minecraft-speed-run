@@ -52,3 +52,9 @@
 [09:04:45] [User Authenticator #5/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
 [09:04:46] [Server thread/INFO]: NoUR_455[/10.147.20.7:65533] logged in with entity id 7231 at (-4437.307569448193, 64.0, -975.64920659958)
 [09:04:46] [Server thread/INFO]: NoUR_455 joined the game
+[09:08:29] [Server thread/INFO]: NoUR_455 has made the advancement [Hot Stuff]
+[09:13:02] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[09:13:02] [Server thread/INFO]: NoUR_455 left the game
+[09:13:11] [User Authenticator #6/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[09:13:12] [Server thread/INFO]: NoUR_455[/10.147.20.7:50306] logged in with entity id 9373 at (-4420.510284193373, 65.0, -942.3000000119209)
+[09:13:12] [Server thread/INFO]: NoUR_455 joined the game
