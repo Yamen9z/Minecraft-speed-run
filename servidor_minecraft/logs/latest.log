@@ -102,3 +102,15 @@
 [12:09:27] [Server thread/INFO]: NoUR_455 joined the game
 [12:12:52] [Server thread/INFO]: NoUR_455 hit the ground too hard while trying to escape Piglin
 [12:13:14] [Server thread/INFO]: Yamen9z has made the advancement [Hot Stuff]
+[12:22:28] [Server thread/INFO]: [Yamen9z: Teleported 2 entities to NoUR_455]
+[12:23:56] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -9999.500000, 60.000000, 10000.500000]
+[12:23:58] [Server thread/WARN]: Yamen9z moved too quickly! 0.0,-10.722248667987493,0.0
+[12:24:19] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -99999.500000, 60.000000, 100000.500000]
+[12:24:20] [Server thread/WARN]: Yamen9z moved too quickly! 0.0,-10.80652611000901,0.0
+[12:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[12:24:41] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -599999.500000, 60.000000, 800000.500000]
+[12:24:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[12:24:58] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -599999.500000, 60.000000, 80000.500000]
+[12:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[12:25:01] [Server thread/INFO]: Yamen9z suffocated in a wall
+[12:25:10] [Server thread/INFO]: [Yamen9z: Teleported 2 entities to NoUR_455]
