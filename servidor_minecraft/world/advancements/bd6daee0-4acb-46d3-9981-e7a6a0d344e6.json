@@ -325,15 +325,16 @@
     "criteria": {
       "minecraft:pillager": "2025-06-22 11:04:53 +0000",
       "minecraft:skeleton": "2025-06-21 13:28:26 +0000",
-      "minecraft:piglin": "2025-06-22 11:07:55 +0000",
       "minecraft:zombified_piglin": "2025-06-22 11:06:13 +0000",
+      "minecraft:ghast": "2025-06-22 11:05:52 +0000",
+      "minecraft:hoglin": "2025-06-22 17:49:12 +0000",
+      "minecraft:piglin": "2025-06-22 11:07:55 +0000",
       "minecraft:enderman": "2025-06-21 13:08:53 +0000",
       "minecraft:magma_cube": "2025-06-22 12:34:03 +0000",
       "minecraft:spider": "2025-06-21 12:48:58 +0000",
       "minecraft:zombie": "2025-06-21 12:33:50 +0000",
       "minecraft:creeper": "2025-06-21 12:52:59 +0000",
       "minecraft:zombie_villager": "2025-06-21 21:03:53 +0000",
-      "minecraft:ghast": "2025-06-22 11:05:52 +0000",
       "minecraft:slime": "2025-06-21 14:14:55 +0000"
     },
     "done": false
@@ -2607,6 +2608,24 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-06-22 13:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-22 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-22 17:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-22 17:49:23 +0000"
     },
     "done": true
   },
