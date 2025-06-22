@@ -1,143 +1,32 @@
-[19:34:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:34:30] [ServerMain/INFO]: Loaded 1370 recipes
-[19:34:30] [ServerMain/INFO]: Loaded 1481 advancements
-[19:34:30] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:34:30] [Server thread/INFO]: Loading properties
-[19:34:30] [Server thread/INFO]: Default game type: SURVIVAL
-[19:34:30] [Server thread/INFO]: Generating keypair
-[19:34:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:34:31] [Server thread/INFO]: Using epoll channel type
-[19:34:31] [Server thread/INFO]: Preparing level "world"
-[19:34:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:34:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:34:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:34:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:34:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:34:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:34:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:34:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:34:35] [Server thread/INFO]: Time elapsed: 3402 ms
-[19:34:35] [Server thread/INFO]: Done (3.775s)! For help, type "help"
-[19:34:39] [User Authenticator #1/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[19:34:39] [Server thread/INFO]: NoUR_455[/10.147.20.7:57725] logged in with entity id 6 at (-4433.349042842388, 70.0, -973.3089109476315)
-[19:34:39] [Server thread/INFO]: NoUR_455 joined the game
-[19:35:53] [User Authenticator #2/INFO]: UUID of player DellaSneeNinn is bf0c020e-0217-4569-92b7-8aece620105f
-[19:35:54] [Server thread/INFO]: DellaSneeNinn[/10.147.20.221:49809] logged in with entity id 688 at (-387.34850665299024, 68.41999998688698, 391.46002384235646)
-[19:35:54] [Server thread/INFO]: DellaSneeNinn joined the game
-[19:35:57] [Server thread/WARN]: UUID of added entity already exists: cha['Bee'/1101, l='ServerLevel[world]', x=-373.88, y=69.00, z=143.89]
-[19:36:02] [Server thread/INFO]: DellaSneeNinn suffocated in a wall
-[19:36:07] [User Authenticator #3/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[19:36:07] [Server thread/INFO]: Yamen9z[/10.147.20.81:61374] logged in with entity id 1410 at (-623.412705592318, -27.0, 426.0001424502659)
-[19:36:07] [Server thread/INFO]: Yamen9z joined the game
-[19:36:25] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[19:36:25] [Server thread/INFO]: Yamen9z left the game
-[19:38:12] [Server thread/INFO]: <NoUR_455> x'-4500 z' -970
-[19:38:30] [User Authenticator #4/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[19:38:31] [Server thread/INFO]: Yamen9z[/10.147.20.81:61639] logged in with entity id 3458 at (-628.5411080129381, -35.8444782470569, 430.3478241710727)
-[19:38:31] [Server thread/INFO]: Yamen9z joined the game
-[19:39:33] [Server thread/INFO]: DellaSneeNinn lost connection: Disconnected
-[19:39:33] [Server thread/INFO]: DellaSneeNinn left the game
-[19:39:41] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[19:39:41] [Server thread/INFO]: Yamen9z left the game
-[19:39:52] [User Authenticator #5/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[19:39:53] [Server thread/INFO]: Yamen9z[/10.147.20.81:61780] logged in with entity id 4651 at (-644.6944429562675, -1.0, 423.0619214051078)
-[19:39:53] [Server thread/INFO]: Yamen9z joined the game
-[19:40:16] [User Authenticator #6/INFO]: UUID of player DellaSneeNinn is bf0c020e-0217-4569-92b7-8aece620105f
-[19:40:16] [Server thread/INFO]: DellaSneeNinn[/10.147.20.221:50099] logged in with entity id 5383 at (64.49957333001909, 74.0, 237.6786104499812)
-[19:40:16] [Server thread/INFO]: DellaSneeNinn joined the game
-[19:41:30] [Server thread/INFO]: Yamen9z has made the advancement [Not Today, Thank You]
-[19:42:07] [Server thread/INFO]: DellaSneeNinn has made the advancement [Best Friends Forever]
-[19:42:41] [User Authenticator #7/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
-[19:42:41] [Server thread/INFO]: LEON_445[/10.147.20.36:60686] logged in with entity id 8204 at (-793.6815360092793, 11.5625, 491.5016281477412)
-[19:42:41] [Server thread/INFO]: LEON_445 joined the game
-[19:50:28] [Server thread/INFO]: DellaSneeNinn lost connection: Disconnected
-[19:50:28] [Server thread/INFO]: DellaSneeNinn left the game
-[19:50:30] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[19:50:30] [Server thread/INFO]: Yamen9z left the game
-[19:50:33] [Server thread/INFO]: <LEON_445> sleeep
-[19:50:44] [User Authenticator #8/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[19:50:44] [Server thread/INFO]: Yamen9z[/10.147.20.81:62512] logged in with entity id 16222 at (-725.9871243710288, 119.0, 387.19142603235053)
-[19:50:44] [Server thread/INFO]: Yamen9z joined the game
-[19:50:45] [User Authenticator #9/INFO]: UUID of player DellaSneeNinn is bf0c020e-0217-4569-92b7-8aece620105f
-[19:50:46] [Server thread/INFO]: DellaSneeNinn[/10.147.20.221:50663] logged in with entity id 16409 at (-383.3997383394433, 62.11076431274414, 519.7472897029692)
-[19:50:46] [Server thread/INFO]: DellaSneeNinn joined the game
-[20:00:03] [Server thread/INFO]: NoUR_455 has made the advancement [The Parrots and the Bats]
-[20:03:59] [Server thread/WARN]: NoUR_455 moved too quickly! -0.8943594849761212,-3.5,9.344004783034393
-[20:07:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4455, y=65, z=-1003} ji{x=-4456, y=63, z=-1003}
-[20:07:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4455, y=65, z=-1003} ji{x=-4456, y=63, z=-1003}
-[20:11:21] [Server thread/WARN]: Yamen9z moved too quickly! -6.8523631680563994,4.419999986886978,6.074024189457646
-[20:15:40] [Server thread/WARN]: Yamen9z moved too quickly! 9.909122545116588,-1.2046003784434305,-1.5676154360039618
-[20:17:31] [Server thread/INFO]: LEON_445 has made the advancement [Ice Bucket Challenge]
-[20:18:21] [Server thread/INFO]: Yamen9z has made the advancement [Ice Bucket Challenge]
-[20:18:25] [Server thread/INFO]: LEON_445 has made the advancement [Who is Cutting Onions?]
-[20:30:30] [Server thread/INFO]: DellaSneeNinn has made the advancement [Ice Bucket Challenge]
-[20:30:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4473, y=64, z=-1026} ji{x=-4473, y=62, z=-1027}
-[20:30:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4474, y=64, z=-1028} ji{x=-4474, y=62, z=-1030}
-[20:30:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4474, y=64, z=-1028} ji{x=-4474, y=62, z=-1030}
-[20:30:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4475, y=64, z=-1032} ji{x=-4475, y=62, z=-1033}
-[20:30:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4475, y=64, z=-1032} ji{x=-4475, y=62, z=-1033}
-[20:30:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4475, y=64, z=-1033} ji{x=-4475, y=62, z=-1034}
-[20:30:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4475, y=64, z=-1034} ji{x=-4475, y=62, z=-1035}
-[20:30:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4476, y=64, z=-1038} ji{x=-4476, y=62, z=-1039}
-[20:30:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4476, y=64, z=-1038} ji{x=-4476, y=62, z=-1039}
-[20:30:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4476, y=64, z=-1039} ji{x=-4476, y=62, z=-1040}
-[20:30:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4479, y=64, z=-1043} ji{x=-4479, y=62, z=-1044}
-[20:30:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4478, y=64, z=-1043} ji{x=-4478, y=62, z=-1044}
-[20:30:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4478, y=64, z=-1045} ji{x=-4477, y=62, z=-1046}
-[20:30:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4478, y=64, z=-1045} ji{x=-4477, y=62, z=-1046}
-[20:30:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4477, y=64, z=-1047} ji{x=-4477, y=62, z=-1048}
-[20:30:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4478, y=64, z=-1047} ji{x=-4476, y=62, z=-1049}
-[20:30:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4475, y=64, z=-1049} ji{x=-4475, y=62, z=-1050}
-[20:30:57] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4471, y=65, z=-1046} ji{x=-4471, y=63, z=-1045}
-[20:30:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4473, y=65, z=-1043} ji{x=-4473, y=63, z=-1042}
-[20:31:12] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[20:31:12] [Server thread/INFO]: NoUR_455 left the game
-[20:31:23] [User Authenticator #10/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[20:31:24] [Server thread/INFO]: NoUR_455[/10.147.20.7:63404] logged in with entity id 75115 at (-4467.249340926714, 64.0, -1031.892828891833)
-[20:31:24] [Server thread/INFO]: NoUR_455 joined the game
-[20:38:49] [Server thread/INFO]: DellaSneeNinn has made the advancement [Diamonds!]
-[20:39:07] [Server thread/INFO]: DellaSneeNinn has made the advancement [Cover Me with Diamonds]
-[20:40:12] [Server thread/INFO]: LEON_445 has made the advancement [Enchanter]
-[20:40:41] [Server thread/INFO]: Yamen9z has made the advancement [Enchanter]
-[20:41:12] [Server thread/INFO]: DellaSneeNinn has made the advancement [Enchanter]
-[20:44:02] [Server thread/INFO]: NoUR_455 has made the advancement [Enchanter]
-[20:44:49] [Server thread/INFO]: LEON_445 has made the advancement [We Need to Go Deeper]
-[20:44:51] [Server thread/WARN]: NoUR_455 moved too quickly! 7.567567707108537,-3.233632006042484,5.878431897219798
-[20:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
-[20:45:43] [Server thread/INFO]: DellaSneeNinn has made the advancement [We Need to Go Deeper]
-[20:45:52] [Server thread/INFO]: NoUR_455 has made the advancement [We Need to Go Deeper]
-[20:46:46] [Server thread/INFO]: NoUR_455 was shot by Skeleton
-[20:47:31] [Server thread/INFO]: DellaSneeNinn has made the advancement [Not Today, Thank You]
-[20:47:47] [Server thread/INFO]: Yamen9z has made the advancement [Voluntary Exile]
-[20:51:18] [Server thread/INFO]: <LEON_445> sleep
-[20:51:19] [Server thread/INFO]: <LEON_445> sleep
-[20:51:21] [Server thread/INFO]: <LEON_445> sleep
-[20:58:54] [Server thread/INFO]: LEON_445 lost connection: Disconnected
-[20:58:54] [Server thread/INFO]: LEON_445 left the game
-[20:59:08] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[20:59:08] [Server thread/INFO]: Yamen9z left the game
-[21:00:57] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[21:00:57] [Server thread/INFO]: NoUR_455 left the game
-[21:01:08] [User Authenticator #11/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[21:01:09] [Server thread/INFO]: NoUR_455[/10.147.20.7:50289] logged in with entity id 86277 at (-4345.630098014897, 28.0, -964.3568746909516)
-[21:01:09] [Server thread/INFO]: NoUR_455 joined the game
-[21:19:10] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[21:19:10] [Server thread/INFO]: NoUR_455 left the game
-[21:19:22] [User Authenticator #12/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[21:19:23] [Server thread/INFO]: NoUR_455[/10.147.20.7:52119] logged in with entity id 91065 at (-4569.462081957349, 3.0, -1018.0359390030501)
-[21:19:23] [Server thread/INFO]: NoUR_455 joined the game
-[21:23:54] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[21:23:54] [Server thread/INFO]: NoUR_455 left the game
-[21:24:01] [User Authenticator #13/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[21:24:02] [Server thread/INFO]: NoUR_455[/10.147.20.7:52591] logged in with entity id 92163 at (-4555.639396285123, 29.00133597911215, -997.7175767536371)
-[21:24:02] [Server thread/INFO]: NoUR_455 joined the game
-[21:29:36] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[21:29:36] [Server thread/INFO]: NoUR_455 left the game
-[21:29:53] [User Authenticator #14/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[21:29:54] [Server thread/INFO]: NoUR_455[/10.147.20.7:53177] logged in with entity id 93645 at (-4551.65584350064, 38.0, -998.8615286153766)
-[21:29:54] [Server thread/INFO]: NoUR_455 joined the game
-[21:39:43] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[21:39:43] [Server thread/INFO]: NoUR_455 left the game
-[21:41:40] [Server thread/INFO]: DellaSneeNinn lost connection: Disconnected
-[21:41:40] [Server thread/INFO]: DellaSneeNinn left the game
-[21:42:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:46:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:46:03] [ServerMain/INFO]: Loaded 1370 recipes
+[07:46:03] [ServerMain/INFO]: Loaded 1481 advancements
+[07:46:03] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[07:46:03] [Server thread/INFO]: Loading properties
+[07:46:03] [Server thread/INFO]: Default game type: SURVIVAL
+[07:46:03] [Server thread/INFO]: Generating keypair
+[07:46:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:46:03] [Server thread/INFO]: Using epoll channel type
+[07:46:03] [Server thread/INFO]: Preparing level "world"
+[07:46:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:46:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:46:09] [Server thread/INFO]: Time elapsed: 5424 ms
+[07:46:09] [Server thread/INFO]: Done (5.802s)! For help, type "help"
+[07:47:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:48:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:48:10] [Server thread/INFO]: opYAMEN9z<--[HERE]
+[07:48:28] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[07:48:29] [Server thread/INFO]: Yamen9z[/10.147.20.81:51068] logged in with entity id 6 at (-4424.589213859524, 64.0, -975.9649163044533)
+[07:48:29] [Server thread/INFO]: Yamen9z joined the game
+[07:50:59] [Server thread/INFO]: Yamen9z has made the advancement [A Seedy Place]
+[07:53:22] [Server thread/INFO]: Yamen9z has made the advancement [We Need to Go Deeper]
