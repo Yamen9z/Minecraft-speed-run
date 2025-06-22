@@ -1,267 +1,41 @@
-[07:46:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:46:03] [ServerMain/INFO]: Loaded 1370 recipes
-[07:46:03] [ServerMain/INFO]: Loaded 1481 advancements
-[07:46:03] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[07:46:03] [Server thread/INFO]: Loading properties
-[07:46:03] [Server thread/INFO]: Default game type: SURVIVAL
-[07:46:03] [Server thread/INFO]: Generating keypair
-[07:46:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:46:03] [Server thread/INFO]: Using epoll channel type
-[07:46:03] [Server thread/INFO]: Preparing level "world"
-[07:46:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:46:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:46:09] [Server thread/INFO]: Time elapsed: 5424 ms
-[07:46:09] [Server thread/INFO]: Done (5.802s)! For help, type "help"
-[07:47:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[07:48:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:48:10] [Server thread/INFO]: opYAMEN9z<--[HERE]
-[07:48:28] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[07:48:29] [Server thread/INFO]: Yamen9z[/10.147.20.81:51068] logged in with entity id 6 at (-4424.589213859524, 64.0, -975.9649163044533)
-[07:48:29] [Server thread/INFO]: Yamen9z joined the game
-[07:50:59] [Server thread/INFO]: Yamen9z has made the advancement [A Seedy Place]
-[07:53:22] [Server thread/INFO]: Yamen9z has made the advancement [We Need to Go Deeper]
-[07:59:15] [Server thread/INFO]: Yamen9z lost connection: Timed out
-[07:59:15] [Server thread/INFO]: Yamen9z left the game
-[08:00:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[08:24:32] [User Authenticator #2/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[08:24:33] [Server thread/INFO]: Yamen9z[/10.147.20.81:52832] logged in with entity id 4020 at (-4317.974441965378, 70.0, -1133.4886955205518)
-[08:24:33] [Server thread/INFO]: Yamen9z joined the game
-[08:29:29] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[08:29:29] [Server thread/INFO]: Yamen9z left the game
-[08:30:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[09:02:02] [User Authenticator #3/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[09:02:03] [Server thread/INFO]: NoUR_455[/10.147.20.7:65226] logged in with entity id 6042 at (-4429.137494125085, 64.0, -1008.2088283790789)
-[09:02:03] [Server thread/INFO]: NoUR_455 joined the game
-[09:03:19] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[09:03:19] [Server thread/INFO]: NoUR_455 left the game
-[09:04:06] [User Authenticator #4/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[09:04:07] [Server thread/INFO]: NoUR_455[/10.147.20.7:65463] logged in with entity id 6681 at (-4433.096790942678, 64.0, -1002.3870658461832)
-[09:04:07] [Server thread/INFO]: NoUR_455 joined the game
-[09:04:37] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[09:04:37] [Server thread/INFO]: NoUR_455 left the game
-[09:04:45] [User Authenticator #5/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[09:04:46] [Server thread/INFO]: NoUR_455[/10.147.20.7:65533] logged in with entity id 7231 at (-4437.307569448193, 64.0, -975.64920659958)
-[09:04:46] [Server thread/INFO]: NoUR_455 joined the game
-[09:08:29] [Server thread/INFO]: NoUR_455 has made the advancement [Hot Stuff]
-[09:13:02] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[09:13:02] [Server thread/INFO]: NoUR_455 left the game
-[09:13:11] [User Authenticator #6/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[09:13:12] [Server thread/INFO]: NoUR_455[/10.147.20.7:50306] logged in with entity id 9373 at (-4420.510284193373, 65.0, -942.3000000119209)
-[09:13:12] [Server thread/INFO]: NoUR_455 joined the game
-[09:21:36] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[09:21:36] [Server thread/INFO]: NoUR_455 left the game
-[09:22:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[10:51:33] [User Authenticator #7/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[10:51:34] [Server thread/INFO]: NoUR_455[/10.147.20.7:52717] logged in with entity id 11659 at (-4448.5, 65.0, -985.5)
-[10:51:34] [Server thread/INFO]: NoUR_455 joined the game
-[10:58:51] [User Authenticator #8/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[10:58:51] [Server thread/INFO]: Yamen9z[/10.147.20.81:56833] logged in with entity id 14630 at (-4427.966869773132, 64.0, -974.7202990037482)
-[10:58:51] [Server thread/INFO]: Yamen9z joined the game
-[11:06:26] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
-[11:09:04] [Server thread/WARN]: Yamen9z was kicked for floating too long!
-[11:09:04] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[11:09:04] [Server thread/INFO]: Yamen9z left the game
-[11:09:04] [Server thread/WARN]: handleDisconnection() called twice
-[11:09:10] [User Authenticator #9/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[11:09:11] [Server thread/INFO]: Yamen9z[/10.147.20.81:57008] logged in with entity id 19052 at (-565.4791015562607, 56.00133597911215, -121.48083265223346)
-[11:09:11] [Server thread/INFO]: Yamen9z joined the game
-[11:10:14] [Server thread/WARN]: Yamen9z moved too quickly! -8.102173149676673,0.604424101326714,6.105197988318878
-[11:25:22] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[11:25:22] [Server thread/INFO]: NoUR_455 left the game
-[11:26:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[11:26:41] [Server thread/INFO]: --op Yamen9z<--[HERE]
-[11:26:58] [Server thread/INFO]: Made Yamen9z a server operator
-[11:27:18] [Server thread/INFO]: [Yamen9z: Made NoUR_455 a server operator]
-[11:27:37] [Server thread/INFO]: [Yamen9z: Made NoUR_455 no longer a server operator]
-[11:27:45] [Server thread/INFO]: [Yamen9z: Gamerule keepInventory is now set to: true]
-[11:28:11] [Server thread/INFO]: [Yamen9z: Gamerule playersSleepingPercentage is now set to: 0]
-[11:54:44] [User Authenticator #10/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[11:54:45] [Server thread/INFO]: NoUR_455[/10.147.20.7:59527] logged in with entity id 30159 at (-4276.648364439878, 5.0, -1091.699999988079)
-[11:54:45] [Server thread/INFO]: NoUR_455 joined the game
-[11:55:02] [Server thread/INFO]: Yamen9z has made the advancement [Cover Me with Diamonds]
-[11:56:40] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[11:56:40] [Server thread/INFO]: NoUR_455 left the game
-[11:57:17] [User Authenticator #11/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[11:57:18] [Server thread/INFO]: NoUR_455[/10.147.20.7:59790] logged in with entity id 30921 at (-4326.63500868522, 6.176759275064237, -1058.4163103850583)
-[11:57:18] [Server thread/INFO]: NoUR_455 joined the game
-[12:00:20] [Server thread/INFO]: NoUR_455 fell from a high place
-[12:09:19] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:09:19] [Server thread/INFO]: NoUR_455 left the game
-[12:09:27] [User Authenticator #12/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:09:27] [Server thread/INFO]: NoUR_455[/10.147.20.7:61008] logged in with entity id 35100 at (-4438.199816753135, 65.0, -993.4749916980738)
-[12:09:27] [Server thread/INFO]: NoUR_455 joined the game
-[12:12:52] [Server thread/INFO]: NoUR_455 hit the ground too hard while trying to escape Piglin
-[12:13:14] [Server thread/INFO]: Yamen9z has made the advancement [Hot Stuff]
-[12:22:28] [Server thread/INFO]: [Yamen9z: Teleported 2 entities to NoUR_455]
-[12:23:56] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -9999.500000, 60.000000, 10000.500000]
-[12:23:58] [Server thread/WARN]: Yamen9z moved too quickly! 0.0,-10.722248667987493,0.0
-[12:24:19] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -99999.500000, 60.000000, 100000.500000]
-[12:24:20] [Server thread/WARN]: Yamen9z moved too quickly! 0.0,-10.80652611000901,0.0
-[12:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
-[12:24:41] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -599999.500000, 60.000000, 800000.500000]
-[12:24:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
-[12:24:58] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -599999.500000, 60.000000, 80000.500000]
-[12:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[12:25:01] [Server thread/INFO]: Yamen9z suffocated in a wall
-[12:25:10] [Server thread/INFO]: [Yamen9z: Teleported 2 entities to NoUR_455]
-[12:28:48] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
-[12:29:05] [Server thread/INFO]: Yamen9z was slain by Zombified Piglin
-[12:31:54] [Server thread/INFO]: Yamen9z was slain by Zombified Piglin
-[12:31:58] [Server thread/INFO]: [Yamen9z: Teleported 2 entities to NoUR_455]
-[12:32:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-538, y=49, z=-68} ji{x=-539, y=49, z=-68}
-[12:32:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-538, y=49, z=-68} ji{x=-539, y=49, z=-68}
-[12:32:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-538, y=49, z=-68} ji{x=-539, y=49, z=-68}
-[12:33:45] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:33:45] [Server thread/INFO]: NoUR_455 left the game
-[12:33:53] [User Authenticator #13/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:33:53] [Server thread/INFO]: NoUR_455[/10.147.20.7:63445] logged in with entity id 46495 at (-524.4777774300122, 53.17675927506424, -71.16936382010454)
-[12:33:53] [Server thread/INFO]: NoUR_455 joined the game
-[12:39:01] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[12:39:01] [Server thread/INFO]: NoUR_455 left the game
-[12:39:08] [User Authenticator #14/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:39:09] [Server thread/INFO]: NoUR_455[/10.147.20.7:63976] logged in with entity id 47444 at (-515.5607933283447, 56.0, -101.61435943192636)
-[12:39:09] [Server thread/INFO]: NoUR_455 joined the game
-[12:39:15] [Server thread/INFO]: NoUR_455 was burned to a crisp while fighting Zombified Piglin
-[12:40:24] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:40:24] [Server thread/INFO]: NoUR_455 left the game
-[12:40:33] [User Authenticator #15/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:40:33] [Server thread/INFO]: NoUR_455[/10.147.20.7:64120] logged in with entity id 48340 at (-550.5, 53.0, -123.1004571070797)
-[12:40:33] [Server thread/INFO]: NoUR_455 joined the game
-[12:40:53] [Server thread/INFO]: Yamen9z was slain by Zombified Piglin
-[12:42:55] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
-[12:44:04] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:44:04] [Server thread/INFO]: NoUR_455 left the game
-[12:44:14] [User Authenticator #16/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:44:15] [Server thread/INFO]: NoUR_455[/10.147.20.7:64489] logged in with entity id 49969 at (-525.257143565921, 55.0, -79.36955938309568)
-[12:44:15] [Server thread/INFO]: NoUR_455 joined the game
-[12:45:41] [Server thread/INFO]: Yamen9z was slain by Piglin
-[12:45:45] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:45:45] [Server thread/INFO]: NoUR_455 left the game
-[12:45:56] [User Authenticator #17/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:45:57] [Server thread/INFO]: NoUR_455[/10.147.20.7:64666] logged in with entity id 50750 at (-537.5267286391999, 55.24918707874468, -77.65822004330099)
-[12:45:57] [Server thread/INFO]: NoUR_455 joined the game
-[12:48:24] [Server thread/INFO]: Yamen9z was slain by Zombified Piglin
-[12:50:43] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:50:43] [Server thread/INFO]: NoUR_455 left the game
-[12:50:51] [User Authenticator #18/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:50:51] [Server thread/INFO]: NoUR_455[/10.147.20.7:65176] logged in with entity id 52329 at (-532.2663988490062, 51.24918707874468, -51.68616181436897)
-[12:50:51] [Server thread/INFO]: NoUR_455 joined the game
-[12:51:52] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
-[12:52:06] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:52:06] [Server thread/INFO]: NoUR_455 left the game
-[12:52:14] [User Authenticator #19/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:52:15] [Server thread/INFO]: NoUR_455[/10.147.20.7:65316] logged in with entity id 53205 at (-545.968550501046, 52.875, -110.59545180434837)
-[12:52:15] [Server thread/INFO]: NoUR_455 joined the game
-[12:54:00] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[12:54:00] [Server thread/INFO]: NoUR_455 left the game
-[12:54:22] [User Authenticator #20/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:54:23] [Server thread/INFO]: NoUR_455[/10.147.20.7:65534] logged in with entity id 53902 at (-4437.663547940433, 64.0, -1000.6110843074957)
-[12:54:23] [Server thread/INFO]: NoUR_455 joined the game
-[12:55:20] [Server thread/INFO]: NoUR_455 has completed the challenge [Return to Sender]
-[12:56:39] [Server thread/INFO]: NoUR_455 was doomed to fall by Ghast
-[12:57:38] [Server thread/INFO]: NoUR_455 was burned to a crisp while fighting Ghast
-[12:59:44] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
-[13:05:43] [Server thread/INFO]: NoUR_455 was blown up by Ghast
-[13:07:11] [Server thread/INFO]: NoUR_455 was slain by Zombie
-[13:07:37] [Server thread/INFO]: NoUR_455 was slain by Enderman
-[13:10:09] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:10:09] [Server thread/INFO]: NoUR_455 left the game
-[13:10:17] [User Authenticator #21/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:10:17] [Server thread/INFO]: NoUR_455[/10.147.20.7:51045] logged in with entity id 59957 at (-4432.136154315286, 63.9375, -974.5978445750429)
-[13:10:17] [Server thread/INFO]: NoUR_455 joined the game
-[13:12:48] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:12:48] [Server thread/INFO]: NoUR_455 left the game
-[13:12:56] [User Authenticator #22/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:12:56] [Server thread/INFO]: NoUR_455[/10.147.20.7:51313] logged in with entity id 61030 at (-488.30000001192093, 55.0, -75.69999998807907)
-[13:12:56] [Server thread/INFO]: NoUR_455 joined the game
-[13:14:16] [Server thread/INFO]: NoUR_455 was shot by Skeleton
-[13:16:09] [Server thread/INFO]: NoUR_455 was slain by Enderman
-[13:17:10] [Server thread/INFO]: NoUR_455 was shot by Skeleton
-[13:17:57] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:17:57] [Server thread/INFO]: NoUR_455 left the game
-[13:18:08] [User Authenticator #23/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:18:08] [Server thread/INFO]: NoUR_455[/10.147.20.7:51836] logged in with entity id 63761 at (-531.5409653307282, 54.0, -53.36329996873558)
-[13:18:08] [Server thread/INFO]: NoUR_455 joined the game
-[13:18:37] [Server thread/INFO]: NoUR_455 went up in flames
-[13:18:39] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:18:39] [Server thread/INFO]: NoUR_455 left the game
-[13:18:46] [User Authenticator #24/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:18:47] [Server thread/INFO]: NoUR_455[/10.147.20.7:51907] logged in with entity id 64031 at (-536.1893525027097, 51.0, -79.09002753943987)
-[13:18:47] [Server thread/INFO]: NoUR_455 joined the game
-[13:20:37] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
-[13:21:54] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[13:21:54] [Server thread/INFO]: NoUR_455 left the game
-[13:22:03] [User Authenticator #25/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:22:04] [Server thread/INFO]: NoUR_455[/10.147.20.7:52236] logged in with entity id 65296 at (-4427.479669205771, 64.0, -1001.0742484761536)
-[13:22:04] [Server thread/INFO]: NoUR_455 joined the game
-[13:22:49] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:22:49] [Server thread/INFO]: NoUR_455 left the game
-[13:22:56] [User Authenticator #26/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:22:57] [Server thread/INFO]: NoUR_455[/10.147.20.7:52331] logged in with entity id 65931 at (-524.4231315580759, 55.0, -68.54323802512924)
-[13:22:57] [Server thread/INFO]: NoUR_455 joined the game
-[13:23:57] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:23:57] [Server thread/INFO]: NoUR_455 left the game
-[13:24:06] [User Authenticator #27/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:24:06] [Server thread/INFO]: NoUR_455[/10.147.20.7:52455] logged in with entity id 66120 at (-513.1405642233005, 56.0, -112.05104836244911)
-[13:24:06] [Server thread/INFO]: NoUR_455 joined the game
-[13:25:23] [Server thread/INFO]: Yamen9z has made the advancement [Oh Shiny]
-[13:28:18] [Server thread/INFO]: NoUR_455 was slain by Enderman
-[13:28:37] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:28:37] [Server thread/INFO]: NoUR_455 left the game
-[13:28:45] [User Authenticator #28/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:28:46] [Server thread/INFO]: NoUR_455[/10.147.20.7:52929] logged in with entity id 67876 at (-535.1568341423188, 36.0, -61.554762623963384)
-[13:28:46] [Server thread/INFO]: NoUR_455 joined the game
-[13:29:16] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:29:16] [Server thread/INFO]: NoUR_455 left the game
-[13:29:24] [User Authenticator #29/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:29:24] [Server thread/INFO]: NoUR_455[/10.147.20.7:52996] logged in with entity id 68475 at (-4436.321743308753, 64.0, -973.9311597876225)
-[13:29:24] [Server thread/INFO]: NoUR_455 joined the game
-[13:30:09] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:30:09] [Server thread/INFO]: NoUR_455 left the game
-[13:30:20] [User Authenticator #30/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:30:20] [Server thread/INFO]: NoUR_455[/10.147.20.7:53092] logged in with entity id 69209 at (-529.2100290858949, 54.0, -46.59715606404023)
-[13:30:20] [Server thread/INFO]: NoUR_455 joined the game
-[13:31:20] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:31:20] [Server thread/INFO]: NoUR_455 left the game
-[13:31:30] [User Authenticator #31/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:31:30] [Server thread/INFO]: NoUR_455[/10.147.20.7:53210] logged in with entity id 69552 at (-535.0311850693059, 53.0, -99.5789129099646)
-[13:31:30] [Server thread/INFO]: NoUR_455 joined the game
-[13:32:58] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
-[13:33:35] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[13:33:35] [Server thread/INFO]: NoUR_455 left the game
-[13:33:42] [User Authenticator #32/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:33:43] [Server thread/INFO]: NoUR_455[/10.147.20.7:53436] logged in with entity id 70507 at (-4448.5, 65.0, -987.5)
-[13:33:43] [Server thread/INFO]: NoUR_455 joined the game
-[13:34:13] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:34:13] [Server thread/INFO]: NoUR_455 left the game
-[13:34:20] [User Authenticator #33/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:34:21] [Server thread/INFO]: NoUR_455[/10.147.20.7:53515] logged in with entity id 71099 at (-4436.437520294224, 64.0, -974.0432855288002)
-[13:34:21] [Server thread/INFO]: NoUR_455 joined the game
-[13:36:36] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[13:36:36] [Server thread/INFO]: NoUR_455 left the game
-[13:36:45] [User Authenticator #34/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:36:45] [Server thread/INFO]: NoUR_455[/10.147.20.7:53757] logged in with entity id 72212 at (-521.7207195387987, 54.0, -64.42671412099585)
-[13:36:45] [Server thread/INFO]: NoUR_455 joined the game
-[13:36:49] [Server thread/INFO]: Yamen9z lost connection: Disconnected
-[13:36:49] [Server thread/INFO]: Yamen9z left the game
-[13:37:24] [Server thread/INFO]: Stopping the server
-[13:37:24] [Server thread/INFO]: Stopping server
-[13:37:24] [Server thread/INFO]: Saving players
-[13:37:24] [Server thread/INFO]: Saving worlds
-[13:37:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:37:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:37:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:34:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:34:23] [ServerMain/INFO]: Loaded 1370 recipes
+[17:34:23] [ServerMain/INFO]: Loaded 1481 advancements
+[17:34:23] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:34:23] [Server thread/INFO]: Loading properties
+[17:34:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:34:23] [Server thread/INFO]: Generating keypair
+[17:34:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:34:23] [Server thread/INFO]: Using epoll channel type
+[17:34:23] [Server thread/INFO]: Preparing level "world"
+[17:34:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:27] [Server thread/INFO]: Time elapsed: 3551 ms
+[17:34:27] [Server thread/INFO]: Done (3.844s)! For help, type "help"
+[17:34:48] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[17:34:49] [Server thread/INFO]: Yamen9z[/10.147.20.81:50914] logged in with entity id 5 at (-4415.615434739432, 65.0, -967.3338176676604)
+[17:34:49] [Server thread/INFO]: Yamen9z joined the game
+[17:35:16] [User Authenticator #2/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[17:35:17] [Server thread/INFO]: NoUR_455[/10.147.20.7:58143] logged in with entity id 552 at (-4448.5, 65.0, -985.5)
+[17:35:17] [Server thread/INFO]: NoUR_455 joined the game
+[17:35:49] [User Authenticator #3/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[17:35:50] [Server thread/INFO]: LEON_445[/10.147.20.36:50124] logged in with entity id 911 at (-4438.274355911062, 64.0, -975.1890138733633)
+[17:35:50] [Server thread/INFO]: LEON_445 joined the game
+[17:39:57] [Server thread/INFO]: [Yamen9z: Made LEON_445 a server operator]
+[17:40:07] [Server thread/INFO]: [Yamen9z: Made NoUR_455 a server operator]
+[17:40:33] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[17:40:33] [Server thread/INFO]: NoUR_455 left the game
+[17:40:33] [Server thread/WARN]: handleDisconnection() called twice
+[17:40:41] [User Authenticator #4/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[17:40:48] [Server thread/INFO]: NoUR_455[/10.147.20.7:58242] logged in with entity id 2834 at (-514.1744023224552, 53.0, -117.02318409468283)
+[17:40:48] [Server thread/INFO]: NoUR_455 joined the game
+[17:43:38] [Server thread/INFO]: [LEON_445: Teleported 3 entities to Yamen9z]
+[17:43:40] [Server thread/INFO]: [NoUR_455: Teleported 3 entities to NoUR_455]
+[17:44:04] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[17:44:04] [Server thread/INFO]: NoUR_455 left the game

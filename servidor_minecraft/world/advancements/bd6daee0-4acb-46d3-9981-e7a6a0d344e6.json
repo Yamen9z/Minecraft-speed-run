@@ -2604,5 +2604,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-06-22 13:42:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
