@@ -315,3 +315,28 @@
 [21:44:36] [Server thread/INFO]: Shree6y was slain by NoUR_455
 [21:45:06] [Server thread/INFO]: LEON_445 was slain by Piglin
 [21:45:36] [Server thread/INFO]: NoUR_455 was shot by Skeleton
+[21:55:52] [Server thread/INFO]: [Shree6y: Kicked LEON_445: Kicked by an operator]
+[21:55:52] [Server thread/INFO]: LEON_445 lost connection: Kicked by an operator
+[21:55:52] [Server thread/INFO]: LEON_445 left the game
+[21:56:02] [Server thread/INFO]: [NoUR_455: Kicked Shree6y: Kicked by an operator]
+[21:56:02] [Server thread/INFO]: Shree6y lost connection: Kicked by an operator
+[21:56:02] [Server thread/INFO]: Shree6y left the game
+[21:56:16] [User Authenticator #29/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[21:56:17] [Server thread/INFO]: Shree6y[/10.147.20.38:59390] logged in with entity id 152401 at (-4419.932367376603, 64.0, -999.3047117068469)
+[21:56:17] [Server thread/INFO]: Shree6y joined the game
+[21:56:20] [Server thread/INFO]: [NoUR_455: Kicked Shree6y: Kicked by an operator]
+[21:56:20] [Server thread/INFO]: Shree6y lost connection: Kicked by an operator
+[21:56:20] [Server thread/INFO]: Shree6y left the game
+[21:56:36] [User Authenticator #30/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[21:56:36] [Server thread/INFO]: Shree6y[/10.147.20.38:59412] logged in with entity id 152439 at (-4419.932367376603, 64.0, -999.3047117068469)
+[21:56:36] [Server thread/INFO]: Shree6y joined the game
+[21:56:44] [Server thread/INFO]: [NoUR_455: Kicked Shree6y: noob]
+[21:56:44] [Server thread/INFO]: Shree6y lost connection: noob
+[21:56:44] [Server thread/INFO]: Shree6y left the game
+[21:56:56] [User Authenticator #31/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[21:56:56] [Server thread/INFO]: Shree6y[/10.147.20.38:59437] logged in with entity id 152510 at (-4419.932367376603, 64.0, -999.3047117068469)
+[21:56:56] [Server thread/INFO]: Shree6y joined the game
+[21:58:19] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[21:58:19] [Server thread/INFO]: NoUR_455 left the game
+[21:58:42] [Server thread/INFO]: Shree6y lost connection: Disconnected
+[21:58:42] [Server thread/INFO]: Shree6y left the game
