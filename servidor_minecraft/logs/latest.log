@@ -62,3 +62,21 @@
 [17:54:34] [User Authenticator #8/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
 [17:54:35] [Server thread/INFO]: NoUR_455[/10.147.20.7:58340] logged in with entity id 7836 at (-4381.497347457874, 45.0, -1158.2051794610734)
 [17:54:35] [Server thread/INFO]: NoUR_455 joined the game
+[17:55:27] [Server thread/INFO]: [LEON_445: Teleported 3 entities to NoUR_455]
+[17:58:18] [Server thread/INFO]: [Yamen9z: Teleported 3 entities to LEON_445]
+[17:58:43] [Server thread/INFO]: [Yamen9z: Teleported 3 entities to LEON_445]
+[17:59:02] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
+[17:59:30] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to NoUR_455]
+[17:59:47] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
+[18:00:52] [Server thread/INFO]: LEON_445 was shot by Skeleton
+[18:01:24] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[18:01:24] [Server thread/INFO]: NoUR_455 left the game
+[18:01:44] [User Authenticator #9/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[18:01:45] [Server thread/INFO]: NoUR_455[/10.147.20.7:58390] logged in with entity id 10530 at (-4441.051475382387, 64.0, -974.9828851981451)
+[18:01:45] [Server thread/INFO]: NoUR_455 joined the game
+[18:01:57] [Server thread/WARN]: Yamen9z moved too quickly! 4.8250605116008956,0.0,8.932695486358966
+[18:02:35] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[18:02:35] [Server thread/INFO]: NoUR_455 left the game
+[18:02:44] [User Authenticator #10/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[18:02:44] [Server thread/INFO]: NoUR_455[/10.147.20.7:58397] logged in with entity id 10980 at (-4432.31626672222, 65.0, -994.4665209428722)
+[18:02:44] [Server thread/INFO]: NoUR_455 joined the game
