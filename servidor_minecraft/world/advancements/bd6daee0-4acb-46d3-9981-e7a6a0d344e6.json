@@ -2629,5 +2629,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-22 18:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-22 18:36:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

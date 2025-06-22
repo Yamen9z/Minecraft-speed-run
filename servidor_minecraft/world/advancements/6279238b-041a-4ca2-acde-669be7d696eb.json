@@ -7,28 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-06-21 13:11:32 +0000",
+      "minecraft:cold_ocean": "2025-06-22 18:31:13 +0000",
       "minecraft:snowy_slopes": "2025-06-21 20:13:46 +0000",
-      "minecraft:beach": "2025-06-21 13:04:10 +0000",
       "minecraft:forest": "2025-06-21 11:08:52 +0000",
-      "minecraft:sparse_jungle": "2025-06-21 12:55:45 +0000",
       "minecraft:deep_ocean": "2025-06-21 13:16:07 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-22 18:31:33 +0000",
+      "minecraft:ocean": "2025-06-21 13:15:49 +0000",
+      "minecraft:jungle": "2025-06-21 13:04:44 +0000",
+      "minecraft:sunflower_plains": "2025-06-21 13:21:32 +0000",
+      "minecraft:cherry_grove": "2025-06-21 20:22:25 +0000",
+      "minecraft:windswept_hills": "2025-06-22 18:20:12 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-22 12:23:58 +0000",
+      "minecraft:flower_forest": "2025-06-21 13:11:32 +0000",
+      "minecraft:beach": "2025-06-21 13:04:10 +0000",
+      "minecraft:sparse_jungle": "2025-06-21 12:55:45 +0000",
       "minecraft:river": "2025-06-21 12:54:11 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 13:06:28 +0000",
       "minecraft:stony_shore": "2025-06-21 14:37:43 +0000",
       "minecraft:dripstone_caves": "2025-06-22 11:23:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-22 12:24:44 +0000",
       "minecraft:deep_dark": "2025-06-21 14:06:09 +0000",
-      "minecraft:ocean": "2025-06-21 13:15:49 +0000",
-      "minecraft:jungle": "2025-06-21 13:04:44 +0000",
-      "minecraft:sunflower_plains": "2025-06-21 13:21:32 +0000",
-      "minecraft:cherry_grove": "2025-06-21 20:22:25 +0000",
       "minecraft:swamp": "2025-06-22 12:22:28 +0000",
       "minecraft:meadow": "2025-06-21 13:38:34 +0000",
       "minecraft:savanna": "2025-06-21 13:10:42 +0000",
       "minecraft:plains": "2025-06-21 11:07:53 +0000",
-      "minecraft:jagged_peaks": "2025-06-21 20:14:17 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-06-22 12:23:58 +0000"
+      "minecraft:jagged_peaks": "2025-06-21 20:14:17 +0000"
     },
     "done": false
   },
@@ -371,6 +374,7 @@
       "minecraft:pillager": "2025-06-21 20:47:36 +0000",
       "minecraft:skeleton": "2025-06-21 12:41:50 +0000",
       "minecraft:zombified_piglin": "2025-06-22 11:06:33 +0000",
+      "minecraft:witch": "2025-06-22 18:33:21 +0000",
       "minecraft:ghast": "2025-06-22 11:06:25 +0000",
       "minecraft:hoglin": "2025-06-22 13:27:05 +0000",
       "minecraft:cave_spider": "2025-06-21 19:23:07 +0000",
@@ -2784,6 +2788,114 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-06-22 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-22 18:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 18:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 18:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-22 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-22 18:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-22 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-22 18:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-22 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-22 18:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-22 18:25:53 +0000"
     },
     "done": true
   },
