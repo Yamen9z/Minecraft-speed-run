@@ -226,3 +226,42 @@
 [13:29:24] [User Authenticator #29/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
 [13:29:24] [Server thread/INFO]: NoUR_455[/10.147.20.7:52996] logged in with entity id 68475 at (-4436.321743308753, 64.0, -973.9311597876225)
 [13:29:24] [Server thread/INFO]: NoUR_455 joined the game
+[13:30:09] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[13:30:09] [Server thread/INFO]: NoUR_455 left the game
+[13:30:20] [User Authenticator #30/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:30:20] [Server thread/INFO]: NoUR_455[/10.147.20.7:53092] logged in with entity id 69209 at (-529.2100290858949, 54.0, -46.59715606404023)
+[13:30:20] [Server thread/INFO]: NoUR_455 joined the game
+[13:31:20] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[13:31:20] [Server thread/INFO]: NoUR_455 left the game
+[13:31:30] [User Authenticator #31/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:31:30] [Server thread/INFO]: NoUR_455[/10.147.20.7:53210] logged in with entity id 69552 at (-535.0311850693059, 53.0, -99.5789129099646)
+[13:31:30] [Server thread/INFO]: NoUR_455 joined the game
+[13:32:58] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
+[13:33:35] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[13:33:35] [Server thread/INFO]: NoUR_455 left the game
+[13:33:42] [User Authenticator #32/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:33:43] [Server thread/INFO]: NoUR_455[/10.147.20.7:53436] logged in with entity id 70507 at (-4448.5, 65.0, -987.5)
+[13:33:43] [Server thread/INFO]: NoUR_455 joined the game
+[13:34:13] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[13:34:13] [Server thread/INFO]: NoUR_455 left the game
+[13:34:20] [User Authenticator #33/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:34:21] [Server thread/INFO]: NoUR_455[/10.147.20.7:53515] logged in with entity id 71099 at (-4436.437520294224, 64.0, -974.0432855288002)
+[13:34:21] [Server thread/INFO]: NoUR_455 joined the game
+[13:36:36] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[13:36:36] [Server thread/INFO]: NoUR_455 left the game
+[13:36:45] [User Authenticator #34/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:36:45] [Server thread/INFO]: NoUR_455[/10.147.20.7:53757] logged in with entity id 72212 at (-521.7207195387987, 54.0, -64.42671412099585)
+[13:36:45] [Server thread/INFO]: NoUR_455 joined the game
+[13:36:49] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[13:36:49] [Server thread/INFO]: Yamen9z left the game
+[13:37:24] [Server thread/INFO]: Stopping the server
+[13:37:24] [Server thread/INFO]: Stopping server
+[13:37:24] [Server thread/INFO]: Saving players
+[13:37:24] [Server thread/INFO]: Saving worlds
+[13:37:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:37:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:37:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:37:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
