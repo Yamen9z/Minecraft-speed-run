@@ -83,3 +83,5 @@
 [11:26:58] [Server thread/INFO]: Made Yamen9z a server operator
 [11:27:18] [Server thread/INFO]: [Yamen9z: Made NoUR_455 a server operator]
 [11:27:37] [Server thread/INFO]: [Yamen9z: Made NoUR_455 no longer a server operator]
+[11:27:45] [Server thread/INFO]: [Yamen9z: Gamerule keepInventory is now set to: true]
+[11:28:11] [Server thread/INFO]: [Yamen9z: Gamerule playersSleepingPercentage is now set to: 0]
