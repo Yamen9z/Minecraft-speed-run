@@ -68,3 +68,11 @@
 [10:58:51] [Server thread/INFO]: Yamen9z[/10.147.20.81:56833] logged in with entity id 14630 at (-4427.966869773132, 64.0, -974.7202990037482)
 [10:58:51] [Server thread/INFO]: Yamen9z joined the game
 [11:06:26] [Server thread/INFO]: NoUR_455 was slain by Zombified Piglin
+[11:09:04] [Server thread/WARN]: Yamen9z was kicked for floating too long!
+[11:09:04] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[11:09:04] [Server thread/INFO]: Yamen9z left the game
+[11:09:04] [Server thread/WARN]: handleDisconnection() called twice
+[11:09:10] [User Authenticator #9/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[11:09:11] [Server thread/INFO]: Yamen9z[/10.147.20.81:57008] logged in with entity id 19052 at (-565.4791015562607, 56.00133597911215, -121.48083265223346)
+[11:09:11] [Server thread/INFO]: Yamen9z joined the game
+[11:10:14] [Server thread/WARN]: Yamen9z moved too quickly! -8.102173149676673,0.604424101326714,6.105197988318878
