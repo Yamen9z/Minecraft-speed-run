@@ -11,7 +11,10 @@
       "minecraft:ocean": "2025-06-22 20:02:28 +0000",
       "minecraft:sunflower_plains": "2025-06-22 19:51:23 +0000",
       "minecraft:river": "2025-06-22 19:51:19 +0000",
-      "minecraft:plains": "2025-06-22 19:17:55 +0000"
+      "minecraft:lukewarm_ocean": "2025-06-22 20:33:04 +0000",
+      "minecraft:lush_caves": "2025-06-22 20:43:12 +0000",
+      "minecraft:plains": "2025-06-22 19:17:55 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-22 20:42:09 +0000"
     },
     "done": false
   },
@@ -232,6 +235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-22 20:04:05 +0000"
@@ -337,6 +346,12 @@
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-22 19:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-22 20:43:08 +0000"
     },
     "done": true
   },
@@ -640,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-06-22 20:04:05 +0000"
@@ -679,6 +700,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-22 20:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
     },
     "done": true
   },
@@ -778,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-06-22 19:56:27 +0000"
@@ -787,6 +820,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-22 19:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-22 20:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
     },
     "done": true
   },
@@ -922,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-22 19:49:40 +0000"
@@ -967,6 +1018,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-22 19:53:45 +0000",
+      "minecraft:enderman": "2025-06-22 20:34:24 +0000",
       "minecraft:spider": "2025-06-22 20:09:47 +0000",
       "minecraft:zombie": "2025-06-22 19:43:15 +0000",
       "minecraft:creeper": "2025-06-22 20:02:47 +0000"
@@ -1195,6 +1247,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-22 19:45:33 +0000"
@@ -1204,6 +1268,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-22 19:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
     },
     "done": true
   },
@@ -1378,6 +1448,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:38:32 +0000"
     },
     "done": true
   },
