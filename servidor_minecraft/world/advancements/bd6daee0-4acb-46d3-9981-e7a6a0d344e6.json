@@ -2403,7 +2403,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-06-21 20:45:53 +0000"
+      "minecraft:soul_sand_valley": "2025-06-21 20:45:53 +0000",
+      "minecraft:nether_wastes": "2025-06-22 12:12:52 +0000"
     },
     "done": false
   },
