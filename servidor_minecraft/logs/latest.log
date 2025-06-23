@@ -34,3 +34,27 @@
 [07:54:39] [Server thread/INFO]: Yamen9z lost connection: Disconnected
 [07:54:39] [Server thread/INFO]: Yamen9z left the game
 [07:55:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:17:05] [User Authenticator #3/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[10:17:06] [Server thread/INFO]: NoUR_455[/10.147.20.7:49962] logged in with entity id 15345 at (-4439.647805654078, 65.0, -982.9197741270839)
+[10:17:06] [User Authenticator #4/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[10:17:06] [Server thread/INFO]: NoUR_455 joined the game
+[10:17:06] [Server thread/INFO]: LEON_445[/10.147.20.36:50392] logged in with entity id 15581 at (-483.72023134919, 48.996296840539195, -139.33659674381926)
+[10:17:06] [Server thread/INFO]: LEON_445 joined the game
+[10:17:22] [Server thread/INFO]: LEON_445 tried to swim in lava
+[10:23:21] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[10:23:21] [Server thread/INFO]: NoUR_455 left the game
+[10:23:21] [Server thread/WARN]: handleDisconnection() called twice
+[10:24:10] [User Authenticator #5/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[10:24:11] [Server thread/INFO]: NoUR_455[/10.147.20.7:50037] logged in with entity id 17177 at (-4426.6407107517, 64.0, -969.413767867342)
+[10:24:11] [Server thread/INFO]: NoUR_455 joined the game
+[10:27:04] [Server thread/WARN]: Oak Boat (vehicle of LEON_445) moved wrongly! 0.6664902734348743
+[10:27:04] [Server thread/WARN]: Oak Boat (vehicle of LEON_445) moved wrongly! 0.9407456718032563
+[10:35:59] [Server thread/INFO]: NoUR_455 was killed
+[10:35:59] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[10:39:57] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[10:39:57] [Server thread/INFO]: NoUR_455 left the game
+[10:40:07] [User Authenticator #6/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[10:40:09] [Server thread/INFO]: NoUR_455[/10.147.20.7:50117] logged in with entity id 29485 at (-519.4124310220584, 52.875, -116.23940148545026)
+[10:40:09] [Server thread/INFO]: NoUR_455 joined the game
+[10:41:04] [Server thread/INFO]: LEON_445 was slain by Zombified Piglin
+[10:42:09] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
