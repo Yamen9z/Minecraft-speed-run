@@ -62,3 +62,10 @@
 [10:50:30] [Server thread/INFO]: NoUR_455 has made the advancement [A Terrible Fortress]
 [10:52:48] [Server thread/INFO]: NoUR_455 has made the advancement [Into Fire]
 [10:53:17] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[10:54:42] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[10:55:36] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -368.500000, 43.000000, -209.500000]
+[10:55:45] [Server thread/INFO]: NoUR_455 was killed
+[10:55:45] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[10:57:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-376, y=43, z=-195} ji{x=-372, y=34, z=-233}
+[10:57:46] [Server thread/INFO]: LEON_445 tried to swim in lava
+[11:00:46] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -368.500000, 43.000000, -209.500000]
